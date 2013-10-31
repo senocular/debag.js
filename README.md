@@ -1,5 +1,5 @@
-debag
-=====
+debag.js
+========
 
 A douche bag JavaScript console
 
